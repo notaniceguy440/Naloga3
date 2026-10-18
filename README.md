@@ -2,7 +2,7 @@
 
 ## Namen naloge
 
-Namen naloge je nadgraditi aplikacijo HelloConstraint v Android Studiu z uporabo Jave in XML. Pri nalogi dodamo nov gumb Zero, uredimo omejitve v postavitvi ConstraintLayout, posodobimo dogodke klika in prilagodimo postavitve za različne orientacije ter velikosti zaslonov.
+Pri nalogi dodamo gumb Zero, uredimo omejitve v postavitvi ConstraintLayout, posodobimo dogodke klika in prilagodimo postavitve za različne orientacije ter velikosti zaslonov.
 
 ## Opis naloge
 
