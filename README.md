@@ -32,4 +32,5 @@ Vsi trije gumbi so postavljeni levo od elementa `show_count` in so navpično ena
 - Prilagajanje postavitev različnim velikostim in orientacijam zaslona
 
 ## xlarge slika:
-<img width="410" height="655" alt="image" src="https://github.com/user-attachments/assets/50888e10-de65-4c29-bca9-440e1c21a515" />
+<img width="431" height="268" alt="image" src="https://github.com/user-attachments/assets/5ae022ea-b5a6-4b7f-9aab-2adb4f42b175" />
+
